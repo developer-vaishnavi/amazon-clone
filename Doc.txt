@@ -1,0 +1,3 @@
+For fonts
+fontawesome.com 
+for this we will add fonawesome as stylsheet link using cdn
